@@ -140,7 +140,7 @@ https://templatemo.com/tm-573-eduwell
       <div class="row">
         <div class="col-lg-6 align-self-center">
           <div class="header-text">
-            <h6>Selamat Datang di E-Port (Easy Way to Report) Direktorat SITP</h6>
+            <h6>Selamat Datang di E-Port (Easy Way to Report) Direktorat SITP.</h6>
             <h2>Laporkan jika Anda menemukan <em>PELANGGARAN</em></h2>
             <div class="main-button-gradient">
               <div class="scroll-to-section"><a href="#contact-section">Lapor Sekarang!</a></div>
